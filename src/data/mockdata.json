@@ -1,0 +1,230 @@
+{
+    "predictions" : 
+    [
+       {
+          "description" : "Delhi, India",
+          "matched_substrings" : 
+          [
+             {
+                "length" : 3,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJLbZ-NFv9DDkRQJY4FbcFcgM",
+          "reference" : "ChIJLbZ-NFv9DDkRQJY4FbcFcgM",
+          "structured_formatting" : 
+          {
+             "main_text" : "Delhi",
+             "main_text_matched_substrings" : 
+             [
+                {
+                   "length" : 3,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "India"
+          },
+          "terms" : 
+          [
+             {
+                "offset" : 0,
+                "value" : "Delhi"
+             },
+             {
+                "offset" : 7,
+                "value" : "India"
+             }
+          ],
+          "types" : 
+          [
+             "political",
+             "geocode",
+             "administrative_area_level_1"
+          ]
+       },
+       {
+          "description" : "Delaware, USA",
+          "matched_substrings" : 
+          [
+             {
+                "length" : 3,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJO9YMTXYFx4kReOgEjBItHZQ",
+          "reference" : "ChIJO9YMTXYFx4kReOgEjBItHZQ",
+          "structured_formatting" : 
+          {
+             "main_text" : "Delaware",
+             "main_text_matched_substrings" : 
+             [
+                {
+                   "length" : 3,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "USA"
+          },
+          "terms" : 
+          [
+             {
+                "offset" : 0,
+                "value" : "Delaware"
+             },
+             {
+                "offset" : 10,
+                "value" : "USA"
+             }
+          ],
+          "types" : 
+          [
+             "political",
+             "administrative_area_level_1",
+             "geocode"
+          ]
+       },
+       {
+          "description" : "Delft, Netherlands",
+          "matched_substrings" : 
+          [
+             {
+                "length" : 3,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJ_VhfUcO1xUcRPdRLxaNcsIk",
+          "reference" : "ChIJ_VhfUcO1xUcRPdRLxaNcsIk",
+          "structured_formatting" : 
+          {
+             "main_text" : "Delft",
+             "main_text_matched_substrings" : 
+             [
+                {
+                   "length" : 3,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "Netherlands"
+          },
+          "terms" : 
+          [
+             {
+                "offset" : 0,
+                "value" : "Delft"
+             },
+             {
+                "offset" : 7,
+                "value" : "Netherlands"
+             }
+          ],
+          "types" : 
+          [
+             "political",
+             "locality",
+             "geocode"
+          ]
+       },
+       {
+          "description" : "Delray Beach, FL, USA",
+          "matched_substrings" : 
+          [
+             {
+                "length" : 3,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJ42rskPzf2IgRuLhuUygBeMc",
+          "reference" : "ChIJ42rskPzf2IgRuLhuUygBeMc",
+          "structured_formatting" : 
+          {
+             "main_text" : "Delray Beach",
+             "main_text_matched_substrings" : 
+             [
+                {
+                   "length" : 3,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "FL, USA"
+          },
+          "terms" : 
+          [
+             {
+                "offset" : 0,
+                "value" : "Delray Beach"
+             },
+             {
+                "offset" : 14,
+                "value" : "FL"
+             },
+             {
+                "offset" : 18,
+                "value" : "USA"
+             }
+          ],
+          "types" : 
+          [
+             "locality",
+             "political",
+             "geocode"
+          ]
+       },
+       {
+          "description" : "Delhi cantt railway Junction, Kirby Place, Delhi Cantonment, New Delhi, Delhi, India",
+          "matched_substrings" : 
+          [
+             {
+                "length" : 3,
+                "offset" : 0
+             }
+          ],
+          "place_id" : "ChIJe511hdAdDTkRy4vPSu2VEQk",
+          "reference" : "ChIJe511hdAdDTkRy4vPSu2VEQk",
+          "structured_formatting" : 
+          {
+             "main_text" : "Delhi cantt railway Junction",
+             "main_text_matched_substrings" : 
+             [
+                {
+                   "length" : 3,
+                   "offset" : 0
+                }
+             ],
+             "secondary_text" : "Kirby Place, Delhi Cantonment, New Delhi, Delhi, India"
+          },
+          "terms" : 
+          [
+             {
+                "offset" : 0,
+                "value" : "Delhi cantt railway Junction"
+             },
+             {
+                "offset" : 30,
+                "value" : "Kirby Place"
+             },
+             {
+                "offset" : 43,
+                "value" : "Delhi Cantonment"
+             },
+             {
+                "offset" : 61,
+                "value" : "New Delhi"
+             },
+             {
+                "offset" : 72,
+                "value" : "Delhi"
+             },
+             {
+                "offset" : 79,
+                "value" : "India"
+             }
+          ],
+          "types" : 
+          [
+             "establishment",
+             "point_of_interest"
+          ]
+       }
+    ],
+    "status" : "OK"
+ }
